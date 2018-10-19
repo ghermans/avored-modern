@@ -1,0 +1,13 @@
+{
+  "name": "ghermans/avored-modern",
+  "description": "a modern store theme for AvoRed E-Commerce",
+  "keywords": ["avored", "e-commerce", "theme"],
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "ghermans",
+      "email": "info@digibytes.be"
+    }
+  ],
+  "type": "avored-theme"
+}
