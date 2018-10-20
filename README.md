@@ -8,3 +8,11 @@
 - Seo friendly code
 - Font Awesome & Ionicons Font
 - jQuery latest version
+
+
+## Installation
+Require this package with composer. 
+
+```
+composer require ghermans/avored-modern --dev-master
+```
