@@ -3,13 +3,12 @@
 
 ## Features
 - Bootstrap 4
-- Modern Design
-- W3 validate Markup
-- Smooth animations
-- Seo friendly code
-- Font Awesome & Ionicons Font
+- Font Awesome & Ionicons Font.
 - jQuery latest version
-
+- Modern Design.
+- SEO friendly code.
+- Smooth animations.
+- W3 validate Markup.
 
 ## Installation
 Require this package with composer. 
