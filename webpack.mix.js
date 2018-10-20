@@ -11,7 +11,6 @@ let mix = require('laravel-mix');
  |
  */
 
-
 mix.config.fileLoaderDirs.fonts     = "vendor/avored-default/fonts";
 mix.config.fileLoaderDirs.images    = "vendor/avored-default/images";
 
