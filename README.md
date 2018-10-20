@@ -13,6 +13,6 @@
 ## Installation
 Require this package with composer. 
 
-```
+```php
 composer require ghermans/avored-modern --dev-master
 ```
