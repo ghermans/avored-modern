@@ -2,7 +2,7 @@
 [![GitHub](https://img.shields.io/github/license/ghermans/avored-modern%20.svg)](LICENSE)
 
 ## Features
-- Bootstrap 4
+- Bootstrap v4.1.3.
 - Font Awesome & Ionicons Font.
 - jQuery latest version
 - Modern Design.
