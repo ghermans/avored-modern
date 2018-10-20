@@ -1,4 +1,5 @@
-# avored-modern
+# AvoRed-Modern
+[![GitHub](https://img.shields.io/github/license/ghermans/avored-modern%20.svg)](LICENSE)
 
 ## Features
 - Bootstrap 4
